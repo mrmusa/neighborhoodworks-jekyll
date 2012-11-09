@@ -57,7 +57,7 @@ body ul {
 		overflow: hidden;
 	}
 section.page_heading {
-	background: #d07837;
+	background: #006dad;
 	width: 100%;
 	height: 90px;
 }
@@ -286,7 +286,7 @@ div.flexslider-container {
 	}
 	.flex-caption { background: rgba(0,0,0,0.6); }
 	span.color {
-		color: #db9a6a;
+		color: #2589c4;
 	}
 	div#revolution_wrap {
 		overflow: hidden;
@@ -372,7 +372,7 @@ div.flexslider-container {
 			width: 40px;
 			height: 33px;
 			padding-top: 7px;
-			background: #d07837;
+			background: #006dad;
 			color: #fff;
 			-webkit-border-radius: 5px;
 			-moz-border-radius: 5px;
@@ -997,7 +997,7 @@ footer {
 10. Typography
 ---------------------------------------------*/
 h1,h2,h3,h4,h5,h6 { font-weight: normal; sans-serif; }
-h1,h2 { font-family: 'Pacifico'; color: #d07837; }
+h1,h2 { font-family: 'Pacifico'; color: #006dad; }
 h3,h4 { font-family: 'Cabin'; font-weight: bold; }
 h1 {
 	font-size: 32px;
@@ -1039,7 +1039,7 @@ p {
 		color: #666;
 	}
 a {
-	color: #d07837;
+	color: #006dad;
 	outline: none;
 }
 	a:hover { text-decoration: none; }
@@ -1247,7 +1247,7 @@ img.rounded {
 	margin-top: 8px;
 	padding: 8px 18px;
 	color: #fff;
-	background: #c87436;
+	background: #006699;
 	text-decoration: none;
 	border: 1px solid #d7d8d6;
 	-webkit-border-radius: 5px;
@@ -1421,7 +1421,7 @@ iframe {
 /*--------------------------------------------
 14. Icons
 ---------------------------------------------*/
-.icon { cursor: default; font-size: 18px; line-height: 1; color: #d07837; }
+.icon { cursor: default; font-size: 18px; line-height: 1; color: #006dad; }
 /* Icons General */
 @font-face {
   font-family: 'FoundationIconsGeneral';
